@@ -1,0 +1,19 @@
+# Compilados de .NET
+bin/
+obj/
+
+# Base de datos local: contiene datos personales, no se versiona
+*.db
+*.db-shm
+*.db-wal
+
+# Entornos y configuracion local
+.vs/
+.idea/
+*.user
+*.suo
+*.rsuser
+
+# Sistema
+Thumbs.db
+Desktop.ini
